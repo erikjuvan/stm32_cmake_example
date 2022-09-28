@@ -1,1 +1,1 @@
-Example project of how to use CMake using STM32G0 MCU.
+Example of how to setup an STM32 based project using CMake
